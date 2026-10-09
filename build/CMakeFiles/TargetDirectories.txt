@@ -1,0 +1,3 @@
+/home/DotBox/Programming/C/ChaTerm/build/CMakeFiles/ChaTerm.dir
+/home/DotBox/Programming/C/ChaTerm/build/CMakeFiles/edit_cache.dir
+/home/DotBox/Programming/C/ChaTerm/build/CMakeFiles/rebuild_cache.dir
