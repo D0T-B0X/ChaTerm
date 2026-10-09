@@ -1,9 +1,4 @@
-# Team N-Melon — ChaTerm
-
-## Group Members
-- Ananya Srivastava (24051465) — all of it
-
----
+# ChaTerm
 
 ## How to Build
 
